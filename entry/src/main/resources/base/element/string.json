@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "main_title",
+      "value": "FocusController"
+    },
+    {
+      "name": "main_subtitle",
+      "value": "Rotate crown"
+    },
+    {
+      "name": "main_btn1",
+      "value": "Button 1"
+    },
+    {
+      "name": "main_btn2",
+      "value": "Button 2"
+    },
+    {
+      "name": "main_focus_target",
+      "value": "Focus Target"
+    },
+    {
+      "name": "main_jump",
+      "value": "Jump to Focus Target"
+    },
+    {
+      "name": "main_clear",
+      "value": "Clear Focus"
+    },
+    {
+      "name": "main_next",
+      "value": "Next: Focus Control →"
+    },
+    {
+      "name": "fc_title",
+      "value": "Focus Control"
+    },
+    {
+      "name": "fc_subtitle",
+      "value": "focusable · defaultFocus · tabIndex"
+    },
+    {
+      "name": "fc_btn1",
+      "value": "1 · Default + tab 1"
+    },
+    {
+      "name": "fc_btn2",
+      "value": "2 · tab 2"
+    },
+    {
+      "name": "fc_disabled",
+      "value": "✕ Not focusable"
+    },
+    {
+      "name": "fc_btn3",
+      "value": "3 · tab 3"
+    },
+    {
+      "name": "fc_next",
+      "value": "Next: Events →"
+    },
+    {
+      "name": "evt_title",
+      "value": "Focus Event"
+    },
+    {
+      "name": "evt_subtitle",
+      "value": "Color follows focus"
+    },
+    {
+      "name": "evt_btn1",
+      "value": "Event Btn 1"
+    },
+    {
+      "name": "evt_btn2",
+      "value": "Event Btn 2"
+    },
+    {
+      "name": "evt_btn3",
+      "value": "Event Btn 3"
+    },
+    {
+      "name": "evt_next",
+      "value": "Next: Accessibility →"
+    },
+    {
+      "name": "acc_title",
+      "value": "Accessibility Control"
+    },
+    {
+      "name": "acc_subtitle",
+      "value": "ScreenReader on"
+    },
+    {
+      "name": "acc_slider_label",
+      "value": "Slider — inc / dec"
+    },
+    {
+      "name": "acc_value",
+      "value": "Value: %d"
+    },
+    {
+      "name": "acc_toggle_label",
+      "value": "Toggle — focus + intercept"
+    },
+    {
+      "name": "acc_notifications",
+      "value": "Notifications"
+    },
+    {
+      "name": "acc_confirm_title",
+      "value": "Confirm"
+    },
+    {
+      "name": "acc_confirm_msg",
+      "value": "Turn %s notifications?"
+    },
+    {
+      "name": "acc_focus_state",
+      "value": "onAccessibilityFocus: %s"
+    },
+    {
+      "name": "acc_last_intercept",
+      "value": "Last intercept: %s"
+    },
+    {
+      "name": "acc_toggle_state",
+      "value": "Toggle is: %s"
+    },
+    {
+      "name": "acc_warning",
+      "value": "⚠ Enable ScreenReader in\nsettings for callbacks."
+    },
+    {
+      "name": "btn_ok",
+      "value": "OK"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "Cancel"
+    }
+  ]
+}
